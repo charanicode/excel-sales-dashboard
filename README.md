@@ -59,7 +59,7 @@ It allows users to analyze profit performance across different regions, product 
 
 ## Dashboard Overview
 
-![Dashboard Overview](profit_analysis_ dashboard.png)
+![Dashboard Overview](profit_analysis_dashboard.png)
 
 ---
 
@@ -71,11 +71,11 @@ It allows users to analyze profit performance across different regions, product 
 
 ### Product Category Filter Applied
 
-![Product Category Filter](profit_analysis_dashboard_by_ product_category.png)
+![Product Category Filter](profit_analysis_dashboard_by_product_category.png)
 
 ### Ship Mode Filter Applied
 
-![Ship Mode Filter](profit_analysis_dashboard_by _shipmode.png)
+![Ship Mode Filter](profit_analysis_dashboard_by_shipmode.png)
 
 ### Year Filter Applied
 
