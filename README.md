@@ -82,25 +82,31 @@ It allows users to analyze profit performance across different regions, product 
 ![Year Filter](profit_analysis_dashboard_by_year.png)
 
 ---
+### Dashboard with kpis
+
+![Kpi filter](dashboard_with_kpis.png)
+
+---
 
 ## Key Learnings
 
 Through this project, I learned:
 
-- Creating Pivot Tables and Pivot Charts
-- Designing interactive dashboards
-- Using Slicers for dynamic filtering
-- Presenting business insights visually
-- Organizing data for business reporting
+Creating Pivot Tables and Pivot Charts.
+Designing interactive Excel dashboards.
+Building KPI Cards linked to Pivot Table data.
+Using Slicers and Timeline Filters for dynamic reporting.
+Presenting business insights through effective visualizations.
+Organizing and analyzing sales data for business reporting.
 
 ---
 
 ## Future Improvements
 
-- Add KPI Cards
-- Improve dashboard layout
-- Add additional business metrics
-- Enhance dashboard design
+Add more advanced KPIs (Profit Margin, Average Order Value).
+Enhance dashboard design and formatting.
+Improve number formatting and conditional formatting.
+Automate dashboard updates using Power Query.
 
 ---
 
